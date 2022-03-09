@@ -7,7 +7,7 @@ LABEL description="Dockerized P2Pool"
 
 WORKDIR /p2pool
 ENV P2POOL_HOME /p2pool/p2pool
-ENV P2POOL_REPO https://github.com/jtoomim/p2pool.git
+ENV P2POOL_REPO https://github.com/zone117x/p2pool.git
 
 # Using installation instructions for Linux
 # https://github.com/jtoomim/p2pool/blob/155022fc942ec45778a95622766a9b11d923e76e/README.md
